@@ -1,2 +1,2 @@
 # Quickoz
-#https://rafik-quickoz.netlify.app/
+https://rafik-quickoz.netlify.app/
