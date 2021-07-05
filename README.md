@@ -1,2 +1,2 @@
 # Quickoz
-live demo: https://rafik-quickoz.netlify.app/
+### demo: https://rafik-quickoz.netlify.app/
